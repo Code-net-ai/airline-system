@@ -1,0 +1,13 @@
+.complaint-box {
+  max-width: 600px;
+  margin: auto;
+  background: #fff;
+}
+
+.complaint-box h2 {
+  font-weight: bold;
+}
+
+.complaint-box button {
+  font-size: 1.1rem;
+}
